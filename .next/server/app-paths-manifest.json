@@ -1,10 +1,17 @@
 {
-  "/page": "app/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/api/login/route": "app/api/login/route.js",
-  "/home/page": "app/home/page.js",
-  "/api/get-rooms/route": "app/api/get-rooms/route.js",
-  "/view/page": "app/view/page.js",
+  "/_not-found": "app/_not-found.js",
+  "/add-room/page": "app/add-room/page.js",
   "/api/get-current-user/route": "app/api/get-current-user/route.js",
-  "/api/get-rooms-user/route": "app/api/get-rooms-user/route.js"
+  "/api/login/route": "app/api/login/route.js",
+  "/api/add-room/route": "app/api/add-room/route.js",
+  "/api/get-rooms/route": "app/api/get-rooms/route.js",
+  "/api/get-rooms-user/route": "app/api/get-rooms-user/route.js",
+  "/api/logout/route": "app/api/logout/route.js",
+  "/api/signup/route": "app/api/signup/route.js",
+  "/api/toggle-room-state/route": "app/api/toggle-room-state/route.js",
+  "/home/page": "app/home/page.js",
+  "/page": "app/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/view/page": "app/view/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }
